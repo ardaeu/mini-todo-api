@@ -13,14 +13,14 @@ Bu proje, Node.js + TypeScript kullanarak geliştirilen bir RESTful API ve React
 
 ### Backend (server/)
 
-cd server
-npm install
-npm run dev
+- cd server
+- npm install
+- npm run dev
 
 ### Frontend (client/)
 
-cd client
-npm install
-npm run start
+- cd client
+- npm install
+- npm run start
 
 
